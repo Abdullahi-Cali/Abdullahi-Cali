@@ -11,6 +11,8 @@
 **Data Tools:** Tableau · Excel · Git · GitHub
 **Data Skills:** Data Analysis · Cleaning · Visualization · Statistical Modeling · Machine Learning
 
+---
+
 ### Projects
 <table>
   <tr>
