@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><b><a href="https://github.com/Abdullahi-Cali/NBA-Salary-Predictive-Model/tree/main">🏀 NBA Salary Predictive Model</a></b></td>
-    <td>Developed a Random Forest regression model to predict player salaries, achieving R² = 0.75 and identifying key performance drivers.</td>
+    <td>RBuilt a <b>Random Forest</b> model to predict player salaries (<b>R² = 0.75</b>). Analyzed 25 years of data to find market inefficiencies..</td>
     <td>Python, Scikit-Learn, Pandas</td>
   </tr>
   <tr>
