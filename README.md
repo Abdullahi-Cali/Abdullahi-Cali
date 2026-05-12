@@ -19,13 +19,12 @@
     <th width="20%">Tools</th>
   </tr>
   <tr>
-    <td><b>NBA Salary Predictive Model</b></td>
+    <td><b><a href="https://github.com/YourUsername/nba-salary-repo">NBA Salary Predictive Model</a></b></td>
     <td>Developed a Random Forest regression model to predict player salaries, achieving R² = 0.75 and identifying key performance drivers.</td>
     <td>Python, Scikit-Learn, Pandas</td>
   </tr>
   <tr>
-    <td><b>EV Performance Strategy Dashboard</b></td>
+    <td><b><a href="https://github.com/YourUsername/ev-dashboard-repo">EV Performance Strategy Dashboard</a></b></td>
     <td>Built an interactive Tableau dashboard to analyze EV market efficiency and performance metrics using calculated fields.</td>
-    <td>Tableau</td>
   </tr>
 </table>
