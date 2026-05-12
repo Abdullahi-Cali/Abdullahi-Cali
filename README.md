@@ -37,4 +37,4 @@
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullahi-blue?style=flat-square&logo=linkedin)](http://www.linkedin.com/in/abdullahi-cali)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:caliab@bc.edu) 
+[![Email](https://img.shields.io/badge/Email-Caliab@bc.edu-red?style=flat-square&logo=gmail)](mailto:caliab@bc.edu) 
