@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Abdullahi 👋
 
-<!--
-**Abdullahi-Cali/Abdullahi-Cali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Computer Science @ Boston College - May 2028
+- AA in Applied Data Science - May 2026
+- Chestnut Hill, MA | Cambridge, MA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+**Programming:** Python · SQL · R · C++
+**Data Tools:** Tableau · Excel · Git · GitHub
+**Data Skills:** Data Analysis · Cleaning · Visualization · Statistical Modeling · Machine Learning
+
+### Projects
+<table>
+  <tr>
+    <th width="30%">Project</th>
+    <th width="50%">Description</th>
+    <th width="20%">Tools</th>
+  </tr>
+  <tr>
+    <td><b>NBA Salary Predictive Model</b></td>
+    <td>Developed a Random Forest regression model to predict player salaries, achieving R² = 0.75 and identifying key performance drivers.</td>
+    <td>Python, Scikit-Learn, Pandas</td>
+  </tr>
+  <tr>
+    <td><b>EV Performance Strategy Dashboard</b></td>
+    <td>Built an interactive Tableau dashboard to analyze EV market efficiency and performance metrics using calculated fields.</td>
+    <td>Tableau</td>
+  </tr>
+</table>
