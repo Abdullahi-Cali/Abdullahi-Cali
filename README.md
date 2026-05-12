@@ -31,3 +31,10 @@
     <td>Tableau</td>
   </tr>
 </table>
+
+---
+
+### 📬 Connect With Me
+[![LinkedIn](www.linkedin.com/in/abdullahi-cali)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:caliab@bc.edu)
+
