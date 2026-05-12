@@ -26,5 +26,6 @@
   <tr>
     <td><b><a href="https://public.tableau.com/app/profile/abdullahi.cali/viz/EVPerformanceAnalysis/EVPerformanceAnalysis">EV Performance Strategy Dashboard</a></b></td>
     <td>Built an interactive Tableau dashboard to analyze EV market efficiency and performance metrics using calculated fields.</td>
+    <td>Tableau</td>
   </tr>
 </table>
