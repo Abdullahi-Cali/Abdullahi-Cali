@@ -1,4 +1,4 @@
-## Hi, I'm Abdullahi 👋
+## Hi, I'm Abdullahi Cali 👋
 
 - Computer Science @ Boston College - May 2028
 - AA in Applied Data Science - May 2026
