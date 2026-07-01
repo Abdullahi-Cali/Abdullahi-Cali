@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><b><a href="https://abdullahicali-ncaa-dashboard.streamlit.app/">🏆 NCAA March Madness Championship Formula</a></b></td>
-    <td>Developed an interactive Streamlit analytics dashboard using <b>Altair</b> to isolate the statistical thresholds of championship teams. Implemented multi-view <b>cross-filtering brush selections</b> to map opponent efficiency and defensive glass lockdown parameters.</td>
+ <td>Developed an interactive Streamlit analytics dashboard using <b>Altair</b> to isolate the statistical thresholds of championship teams. Implemented multi-view <b>cross-filtering brush selections</b> to map offensive/defensive efficiency and possession-control parameters.</td>
     <td>Python, Streamlit, Altair, Pandas</td>
   </tr>
   <tr>
